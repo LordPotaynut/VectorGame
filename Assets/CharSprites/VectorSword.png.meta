@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: c6170b5a53d2aad4f8b7ec9178d71cfe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7330936998838962502
+    second: VectorSwordIdle0
+  - first:
+      213: -3232950898610621781
+    second: VectorSwordIdle1
+  - first:
+      213: 513194397343298497
+    second: VectorSwordWalk0
+  - first:
+      213: 4010917352917885138
+    second: VectorSwordWalk1
+  - first:
+      213: -5107647427386262433
+    second: VectorSwordWalk2
+  - first:
+      213: -986930471255408257
+    second: VectorSwordWalk3
+  - first:
+      213: -3865654927043718417
+    second: VectorSwordWalk4
+  - first:
+      213: -8705134353274378461
+    second: VectorSwordWalk5
+  - first:
+      213: 8582215756798566211
+    second: VectorSwordWalk6
+  - first:
+      213: -3589757826450700588
+    second: VectorSwordWalk7
+  - first:
+      213: -1150524023046382305
+    second: VectorSwordAttack0
+  - first:
+      213: -5499971397993596196
+    second: VectorSwordAttack1
+  - first:
+      213: -1557439660347070070
+    second: VectorSwordAttack2
+  - first:
+      213: -8272737799868862970
+    second: VectorSwordAttack3
+  - first:
+      213: -1285707590061116401
+    second: VectorSwordIdle0
+  - first:
+      213: 2603804950762036522
+    second: VectorSwordIdle1
+  - first:
+      213: 661942842961278253
+    second: VectorSwordWalking0
+  - first:
+      213: 5898209062992785522
+    second: VectorSwordWalking1
+  - first:
+      213: 5567814040273129458
+    second: VectorSwordWalking2
+  - first:
+      213: -8369370750009202893
+    second: VectorSwordWalking3
+  - first:
+      213: 7942546643245478297
+    second: VectorSwordWalking4
+  - first:
+      213: -1375469928733931979
+    second: VectorSwordWalking5
+  - first:
+      213: -1140034545281759570
+    second: VectorSwordWalking6
+  - first:
+      213: -2284302158541403704
+    second: VectorSwordWalking7
+  - first:
+      213: 4589573022514964630
+    second: VectorSwordAttack0
+  - first:
+      213: -6132810836156107195
+    second: VectorSwordAttack1
+  - first:
+      213: -6126455456923824262
+    second: VectorSwordAttack2
+  - first:
+      213: 8258293762145813673
+    second: VectorSwordAttack3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VectorSwordIdle0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 45
+        height: 29
+      alignment: 9
+      pivot: {x: 0.51, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04326142cf382ee0800000000000000
+      internalID: -1285707590061116401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorSwordIdle1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 31
+        width: 45
+        height: 29
+      alignment: 9
+      pivot: {x: 0.51, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d1392aec2922420800000000000000
+      internalID: 2603804950762036522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorSwordWalking0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 31
+        width: 45
+        height: 29
+      alignment: 9
+      pivot: {x: 0.51, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25b1503281bf2900800000000000000
+      internalID: 661942842961278253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorSwordWalking1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 31
+        width: 45
+        height: 29
+      alignment: 9
+      pivot: {x: 0.51, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270bcaa84e5aad150800000000000000
+      internalID: 5898209062992785522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorSwordWalking2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 31
+        width: 45
+        height: 29
+      alignment: 9
+      pivot: {x: 0.51, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff89edbe59d44d40800000000000000
+      internalID: 5567814040273129458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorSwordWalking3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 31
+        width: 45
+        height: 29
+      alignment: 9
+      pivot: {x: 0.51, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337282c45a50adb80800000000000000
+      internalID: -8369370750009202893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorSwordWalking4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 31
+        width: 45
+        height: 29
+      alignment: 9
+      pivot: {x: 0.51, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9913e923718993e60800000000000000
+      internalID: 7942546643245478297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorSwordWalking5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 45
+        height: 29
+      alignment: 9
+      pivot: {x: 0.51, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536059a236959ece0800000000000000
+      internalID: -1375469928733931979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorSwordWalking6
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1
+        width: 45
+        height: 29
+      alignment: 9
+      pivot: {x: 0.51, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea68ec80f98cd20f0800000000000000
+      internalID: -1140034545281759570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorSwordWalking7
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1
+        width: 45
+        height: 29
+      alignment: 9
+      pivot: {x: 0.51, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c94b702a478c40e0800000000000000
+      internalID: -2284302158541403704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorSwordAttack0
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1
+        width: 45
+        height: 29
+      alignment: 9
+      pivot: {x: 0.51, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69868bde85071bf30800000000000000
+      internalID: 4589573022514964630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorSwordAttack1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1
+        width: 45
+        height: 29
+      alignment: 9
+      pivot: {x: 0.51, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546bf3c9901e3eaa0800000000000000
+      internalID: -6132810836156107195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorSwordAttack2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1
+        width: 45
+        height: 29
+      alignment: 9
+      pivot: {x: 0.51, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f4dc5a8357afaa0800000000000000
+      internalID: -6126455456923824262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VectorSwordAttack3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1
+        width: 45
+        height: 29
+      alignment: 9
+      pivot: {x: 0.51, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4868f1c6a5b9270800000000000000
+      internalID: 8258293762145813673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
